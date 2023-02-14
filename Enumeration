@@ -1,0 +1,5 @@
+LAB 1 TASK 1   Lab: Perform NetBIOS Enumeration – Task: Perform NetBIOS Enumeration using Windows Command-Line Utilities Login windows server 2019  cmd command 1) nbtstat -a 10.10.1.11   (NetBIOS Remote Machine Name Table & MAC address)(10.10.1.11 -IP of Windows11 OS)  
+2) nbtstat -c  (NetBIOS Remote Cache Name Table)     3)net use     (shows reomte machine)
+
+
+  TASK 2 Lab: Task :Perform NetBIOS Enumeration using NetBIOS Enumerator 1)Login parrot os 
